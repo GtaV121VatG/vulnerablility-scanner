@@ -1,4 +1,4 @@
-ort requests
+import requests
 from urllib.parse import urljoin, urlparse
 import ssl
 import socket
