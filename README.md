@@ -1,5 +1,5 @@
-GtaV121VatG Web Vulnerability Scanner
-Overview
+GtaV121VatG's Web Vulnerability Scanner:
+
 
 I built this project as a simple web vulnerability scanner to explore how websites can be tested for common security issues. It has two parts: a backend that handles all the scanning logic, and a frontend that gives users a simple web interface to interact with the scanner.
 
