@@ -12,9 +12,9 @@ The frontend is built with JavaScript/Node.js. It provides a web page where user
 To make it easier to run, I created a start.bat file that opens both the backend and frontend in separate terminals automatically, so you don’t have to start them manually.
 
 Project Structure
-backend/    → Python backend files
-frontend/   → Frontend files (JavaScript/Node.js)
-start.bat   → Script to start both backend and frontend
+backend/     (Python backend files)
+frontend/    (Frontend files (JavaScript/Node.js))
+start.bat    (Script to start both backend and frontend)
 
 Requirements
 
